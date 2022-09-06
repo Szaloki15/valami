@@ -1,1 +1,1 @@
-print("elso sor\n masodik sor\n harmadik sor \n\")
+print("It's your birthday\n We gon' party like it's your birthday\n We gon' sip Bacardi like it's your birthday \n\")
